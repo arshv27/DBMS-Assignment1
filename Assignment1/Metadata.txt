@@ -1,2 +1,3 @@
-Hello,ABC,NOPE
-BCD,CBS
+ID,I,5
+Status,C,20
+Price,P,10
